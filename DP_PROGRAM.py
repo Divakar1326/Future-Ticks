@@ -3,7 +3,6 @@ warnings.filterwarnings('ignore')
 # import os
 # os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 import streamlit as st
-import tensorflow as tf
 import time
 from sklearn.model_selection import train_test_split
 import pandas as pd
