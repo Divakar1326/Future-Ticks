@@ -342,6 +342,8 @@ Stock-price predictions are uncertain and should **not** be considered financial
 ---
 
 # 👨‍💻 Author
+## Neha S 
+**B.Tech CSE — Artificial Intelligence & Data Science**
 
 ## Divakar M
 
